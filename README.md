@@ -5,3 +5,10 @@ At the end of the first half there was code to generate a file called AirlineDat
 The second half of this assignment takes in AirlineData and combines it with a file that shows the average temperature of different cities. It then runs the same algortihms as the first half
 We can see that adding the average temperatures of the cities does not do much by running the decision tree classifier before and after
 There is also commented out code to run a support vector machine. You can attempt to run it if you want but the files are very large and it would be tough to do on Colab due to the cloud based nature of it.
+
+Note that for sections of this code, the built in AI tool in colab was used to generate a section of code and then I edited it to ensure accuracy when it went wrong. Some of the comments are AI generated
+
+https://www.globalair.com/airport/region.aspx
+https://en.wikipedia.org/wiki/Fuel_economy_in_aircraft#Example_values
+
+The 40 dollars per mile is a rough estimate that takes into account the average burn rate and the cost of jet fuel. If we were a real airline, we would have access to far more industry data to build a better model.
